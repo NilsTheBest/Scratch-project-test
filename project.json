@@ -10,7 +10,7 @@
 			"value": "Current FPS: 83018.",
 			"isPersistent": false
 		}],
-	"lists": [{
+	"listses": [{
 			"listName": "Punctuation (text)",
 			"contents": [],
 			"isPersistent": false,
@@ -55,7 +55,7 @@
 							[">", ["stringLength:", ["readVariable", "FPS text"]], "125"],
 							[["startScene", "too much!"], ["wait:elapsed:from:", 2.5], ["startScene", "Background"], ["call", "Question"]]]]]]],
 		[450, 288, [["whenIReceive", "Ask"], ["setVar:to:", "Part", "1"], ["call", "Question"]]]],
-	"sounds": [{
+	"sawndz": [{
 			"soundName": "pop",
 			"soundID": 0,
 			"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
@@ -63,7 +63,7 @@
 			"rate": 11025,
 			"format": ""
 		}],
-	"costumes": [{
+	"kostuums": [{
 			"costumeName": "Just pure white :O",
 			"baseLayerID": 6,
 			"baseLayerMD5": "b61b1077b0ea1931abee9dbbfa7903ff.png",
@@ -88,7 +88,7 @@
 			"rotationCenterY": 180
 		},
 		{
-			"costumeName": "BEYOOTIFOL BAQUROND 3",
+			"costumeName": "THIS IS A REALLY, REALLY, really, really, long name. *cough cough*, just long.",
 			"baseLayerID": 9,
 			"baseLayerMD5": "e24eb80fb901e9ff5d2dff929680eb1f.svg",
 			"bitmapResolution": 1,
@@ -96,7 +96,7 @@
 			"rotationCenterY": 180
 		},
 		{
-			"costumeName": "BEYOOTIFOL BAQUROND 4",
+			"costumeName": "BAYOOTIFUL THING",
 			"baseLayerID": 10,
 			"baseLayerMD5": "c9eb8aaf383654b29e52fc23b049b4c6.svg",
 			"bitmapResolution": 1,
@@ -159,7 +159,7 @@
 					"rate": 11025,
 					"format": ""
 				}],
-			"costumes": [{
+			"thingses": [{
 					"costumeName": "IDK",
 					"baseLayerID": 1,
 					"baseLayerMD5": "d36f6603ec293d2c2198d3ea05109fe0.png",
@@ -215,7 +215,7 @@
 					"rate": 11025,
 					"format": ""
 				}],
-			"costumes": [{
+			"costoomz": [{
 					"costumeName": "LOGO",
 					"baseLayerID": 3,
 					"baseLayerMD5": "5221626576f8ffe65739998625dee478.png",
@@ -262,7 +262,7 @@
 			"scripts": [[5, 47, [["whenGreenFlag"]]],
 				[13, 125, [["gotoX:y:", 0, 0]]],
 				[119, 213, [["hide"]]]],
-			"sounds": [{
+			"sownds": [{
 					"soundName": "pop",
 					"soundID": 0,
 					"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
@@ -270,7 +270,7 @@
 					"rate": 11025,
 					"format": ""
 				}],
-			"costumes": [{
+			"caustumz": [{
 					"costumeName": "Sample studio",
 					"baseLayerID": 5,
 					"baseLayerMD5": "f21a4c8c153f785363633eea974f8f65.svg",
